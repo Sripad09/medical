@@ -6,8 +6,8 @@ This is a Flask-based inventory management system for a medical shop. It allows 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/Sripad09/medical>
+   cd <medical>
    ```
 2. Create a virtual environment:
    ```bash
